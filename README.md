@@ -70,3 +70,8 @@ python3 npuzzle.py file
 * http://mathworld.wolfram.com/15Puzzle.html
 * https://courses.cs.washington.edu/courses/cse473/14au/slides/03-hsearch.pdf
 * https://en.wikipedia.org/wiki/Breadth-first_search
+
+
+## Collaborators
+[atripard](https://github.com/Arthur255)
+[ynacache](https://github.com/Nacyo)
